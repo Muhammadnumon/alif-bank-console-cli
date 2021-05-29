@@ -1,4 +1,4 @@
-module github.com/Muhammadnumon/alif-bank-console-cli
+module github.com/Muhammadnumon/bank-console-cli
 
 go 1.13
 
