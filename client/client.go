@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 	"fmt"
-	"github.com/Muhammadnumon/alif-bank-console-core/pkg/core"
+	"github.com/Muhammadnumon/bank-console-core/pkg/core"
 	_ "github.com/mattn/go-sqlite3"
 	"log"
 	"strings"
